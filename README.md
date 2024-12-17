@@ -7,6 +7,7 @@ Roadmap:
     DNS Seeder: Completed ✅ 
     Stratum Bridge: Completed ✅ 
     Stratum Browser Interface: Under Development 🔄 (Currently in progress)
+    Explorer & Webwallet:  (Coming Soon)
     Algorithm Update: Transition from Kheavie to Kheavie-2 (Custom Algorithm - ASIC-Resistant) ⏳ (Coming Soon)
     Block Rewards: Replacing with Lucky Block 🪙 (Coming Soon)
     Economic Model Overhaul: New Economic System 🔧 (Coming Soon)
