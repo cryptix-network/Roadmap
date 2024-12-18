@@ -11,8 +11,8 @@ Roadmap:
     Explorer & Webwallet:  🔄 (Currently in progress)
      - DB Filler Completed ✅
      - Socket Server ✅
-     - Rest Server 🔄 (Currently in progress)
-     -  Explorer ⏳ (Under Development)
+     - Rest Server ✅
+     -  Explorer 🔄 (Currently in progress)
      -  Webwallet ⏳ (Under Development)
      - Website with Placeholder for Explorer and Wallet ⏳ (Under Development)
     
