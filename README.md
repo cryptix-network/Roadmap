@@ -26,3 +26,4 @@ Roadmap:
     Economic Model Overhaul: New Economic System ⏳ (Coming Soon)
     Whitepaper ⏳ (Coming Soon)
     Rebranding: Colors and Logo ⏳ (Coming Soon)
+    Public Pool ⏳ (Coming Soon)
