@@ -24,4 +24,5 @@ Roadmap:
     Algorithm Update: Transition from Kheavie to Kheavie-2 (Custom Algorithm - ASIC-Resistant) ⏳ (Coming Soon)
     Block Rewards: Replacing with Lucky Block ⏳ (Coming Soon)
     Economic Model Overhaul: New Economic System ⏳ (Coming Soon)
+    Whitepaper ⏳ (Coming Soon)
     Rebranding: Colors and Logo ⏳ (Coming Soon)
