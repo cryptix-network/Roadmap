@@ -22,10 +22,10 @@ Roadmap:
      - Website with Placeholder for Explorer and Wallet ✅
      - Web Faucet Free Coins System ✅
 
-     Community Pool 🔄 (Currently in progress)
+     Community Pool  ✅
 
 
-    Windows APP ⏳ (Coming Soon)
+    Windows APP 🔄 (Currently in progress)
     Android APP ⏳ (Coming Soon)
     Algorithm Update: Transition from Kheavie to Kheavie-2 (Custom Algorithm - ASIC-Resistant) ⏳ (Coming Soon)
     Block Rewards: Replacing with Lucky Block ⏳ (Coming Soon)
