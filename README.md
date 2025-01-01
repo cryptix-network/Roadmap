@@ -32,5 +32,5 @@ Roadmap:
     Community Pool Extra Rewards Pool ⏳ (Coming Soon)
     Economic Model Overhaul: New Economic System ⏳ (Coming Soon)
     Whitepaper v2 ⏳ (Coming Soon) 
-    Rebranding: Colors and Logo ⏳ (Coming Soon)
+    Rebranding: Colors and Logo ✅
    
